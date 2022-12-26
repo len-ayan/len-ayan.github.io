@@ -6,7 +6,7 @@
   <link href="https://len-ayan.github.io/atom.xml" rel="self"/>
   
   <link href="https://len-ayan.github.io/"/>
-  <updated>2022-12-26T08:20:47.734Z</updated>
+  <updated>2022-12-26T08:26:29.189Z</updated>
   <id>https://len-ayan.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://len-ayan.github.io/2022/12/26/hexo-Mac-m1%E5%B8%83%E7%BD%AE%E5%BD%92%E7%BA%B3/"/>
     <id>https://len-ayan.github.io/2022/12/26/hexo-Mac-m1%E5%B8%83%E7%BD%AE%E5%BD%92%E7%BA%B3/</id>
     <published>2022-12-26T07:39:34.000Z</published>
-    <updated>2022-12-26T08:20:47.734Z</updated>
+    <updated>2022-12-26T08:26:29.189Z</updated>
     
     <content type="html"><![CDATA[<p>这很不容易终于发了第一篇</p><p>1.<a href="https://blog.csdn.net/sunjiedg/article/details/122214152">https://blog.csdn.net/sunjiedg/article/details/122214152</a></p><p>主要参考他的过程一直到布置到github前</p><p>2.布置github</p><p>【编程路·笔记2】hexo 部署到 GitHub 过程以及遇到的坑_ErrollorrE的博客-CSDN博客</p><p>总体参考</p><p>其中branch填main</p><p>其中repo用ssh</p><p>要设置git主要是参考这个设置</p><p><a href="https://blog.csdn.net/m0_60880170/article/details/126716159">https://blog.csdn.net/m0_60880170/article/details/126716159</a></p><p>其中设置密钥，可以在sudo su 后root下设置然后在终端输入命令出公钥，复制给github（卡了很久）</p><p>发现主题显现不出来</p><p>参考这个</p><p><a href="https://blog.csdn.net/Nathan1987_/article/details/50322493">https://blog.csdn.net/Nathan1987_/article/details/50322493</a></p><p>其中URL是网址名</p><p>root自己建一个加 &#x2F;</p><p>就可以了</p><p>之后要改tag 目录，这个改看</p><p><a href="https://blog.csdn.net/qq_44732432/article/details/124714408">https://blog.csdn.net/qq_44732432/article/details/124714408</a></p><p>要改文件权限，回到上一级然后</p><p>sudo chmod -R 777 &#x2F;Users&#x2F;Administrator&#x2F;Downloads&#x2F;blog</p>]]></content>
     
