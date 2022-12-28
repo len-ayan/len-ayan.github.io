@@ -3,3 +3,4 @@ https://len-ayan.github.io/category/index.html
 https://len-ayan.github.io/tag/index.html
 https://len-ayan.github.io/2022/12/25/hello-world/
 https://len-ayan.github.io/
+https://len-ayan.github.io/categories/blog/
